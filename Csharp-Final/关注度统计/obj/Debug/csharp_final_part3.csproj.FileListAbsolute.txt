@@ -1,0 +1,13 @@
+D:\Source\Repos\csharp_final_part3\bin\Debug\csharp_final_part3.exe.config
+D:\Source\Repos\csharp_final_part3\bin\Debug\csharp_final_part3.exe
+D:\Source\Repos\csharp_final_part3\bin\Debug\csharp_final_part3.pdb
+D:\Source\Repos\csharp_final_part3\obj\Debug\csharp_final_part3.csprojAssemblyReference.cache
+D:\Source\Repos\csharp_final_part3\obj\Debug\csharp_final_part3.exe
+D:\Source\Repos\csharp_final_part3\obj\Debug\csharp_final_part3.pdb
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\bin\Debug\csharp_final_part3.exe.config
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\bin\Debug\csharp_final_part3.exe
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\bin\Debug\csharp_final_part3.pdb
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\obj\Debug\csharp_final_part3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\obj\Debug\csharp_final_part3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\obj\Debug\csharp_final_part3.exe
+C:\Users\Administrator\Desktop\Csharp\csharp\csharp_final_part3\obj\Debug\csharp_final_part3.pdb

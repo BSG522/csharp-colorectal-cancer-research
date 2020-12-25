@@ -1,0 +1,44 @@
+D:\Source\Repos\csharp_final_part4\bin\Debug\csharp_final_part4.exe.config
+D:\Source\Repos\csharp_final_part4\bin\Debug\csharp_final_part4.exe
+D:\Source\Repos\csharp_final_part4\bin\Debug\csharp_final_part4.pdb
+D:\Source\Repos\csharp_final_part4\obj\Debug\csharp_final_part4.csprojAssemblyReference.cache
+D:\Source\Repos\csharp_final_part4\obj\Debug\csharp_final_part4.exe
+D:\Source\Repos\csharp_final_part4\obj\Debug\csharp_final_part4.pdb
+D:\Source\Repos\csharp_final_part4\bin\Debug\WordCloudSharp.dll
+D:\Source\Repos\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CopyComplete
+E:\Csharp作业\csharp\csharp_final_part4\bin\Debug\csharp_final_part4.exe.config
+E:\Csharp作业\csharp\csharp_final_part4\bin\Debug\csharp_final_part4.exe
+E:\Csharp作业\csharp\csharp_final_part4\bin\Debug\csharp_final_part4.pdb
+E:\Csharp作业\csharp\csharp_final_part4\bin\Debug\WordCloudSharp.dll
+E:\Csharp作业\csharp\csharp_final_part4\obj\Debug\csharp_final_part4.csprojAssemblyReference.cache
+E:\Csharp作业\csharp\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CoreCompileInputs.cache
+E:\Csharp作业\csharp\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CopyComplete
+E:\Csharp作业\csharp\csharp_final_part4\obj\Debug\csharp_final_part4.exe
+E:\Csharp作业\csharp\csharp_final_part4\obj\Debug\csharp_final_part4.pdb
+C:\Users\Administrator\Desktop\csharp_final_part4\bin\Debug\csharp_final_part4.exe.config
+C:\Users\Administrator\Desktop\csharp_final_part4\bin\Debug\csharp_final_part4.exe
+C:\Users\Administrator\Desktop\csharp_final_part4\bin\Debug\csharp_final_part4.pdb
+C:\Users\Administrator\Desktop\csharp_final_part4\bin\Debug\WordCloudSharp.dll
+C:\Users\Administrator\Desktop\csharp_final_part4\obj\Debug\csharp_final_part4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CopyComplete
+C:\Users\Administrator\Desktop\csharp_final_part4\obj\Debug\csharp_final_part4.exe
+C:\Users\Administrator\Desktop\csharp_final_part4\obj\Debug\csharp_final_part4.pdb
+E:\Csharp作业\多个终端\csharp_final_part4\bin\Debug\csharp_final_part4.exe.config
+E:\Csharp作业\多个终端\csharp_final_part4\bin\Debug\csharp_final_part4.exe
+E:\Csharp作业\多个终端\csharp_final_part4\bin\Debug\csharp_final_part4.pdb
+E:\Csharp作业\多个终端\csharp_final_part4\bin\Debug\WordCloudSharp.dll
+E:\Csharp作业\多个终端\csharp_final_part4\obj\Debug\csharp_final_part4.csprojAssemblyReference.cache
+E:\Csharp作业\多个终端\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CoreCompileInputs.cache
+E:\Csharp作业\多个终端\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CopyComplete
+E:\Csharp作业\多个终端\csharp_final_part4\obj\Debug\csharp_final_part4.exe
+E:\Csharp作业\多个终端\csharp_final_part4\obj\Debug\csharp_final_part4.pdb
+E:\Csharp作业\多个终端 2\csharp_final_part4\bin\Debug\csharp_final_part4.exe.config
+E:\Csharp作业\多个终端 2\csharp_final_part4\bin\Debug\csharp_final_part4.exe
+E:\Csharp作业\多个终端 2\csharp_final_part4\bin\Debug\csharp_final_part4.pdb
+E:\Csharp作业\多个终端 2\csharp_final_part4\bin\Debug\WordCloudSharp.dll
+E:\Csharp作业\多个终端 2\csharp_final_part4\obj\Debug\csharp_final_part4.csprojAssemblyReference.cache
+E:\Csharp作业\多个终端 2\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CoreCompileInputs.cache
+E:\Csharp作业\多个终端 2\csharp_final_part4\obj\Debug\csharp_final_part4.csproj.CopyComplete
+E:\Csharp作业\多个终端 2\csharp_final_part4\obj\Debug\csharp_final_part4.exe
+E:\Csharp作业\多个终端 2\csharp_final_part4\obj\Debug\csharp_final_part4.pdb
